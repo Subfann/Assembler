@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(7): fatal error A1000: cannot open file : \masm32\include\windows.inc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: Der Befehl "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" wurde mit Code 1 beendet.
